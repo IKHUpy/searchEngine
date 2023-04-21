@@ -4,8 +4,8 @@ The FutureSearchEngine is an open-source project aimed at developing a powerful 
 
 This search engine is optimized to help users find what they are looking for on websites or platforms that have pages with headers. Headers play a key role in identifying and locating the relevant content. The content found under these headers will serve as data references, streamlining the search process and ensuring an enjoyable user experience.
 
-## Prerequisites
+# Prerequisites
 Before you start working with this repository, please ensure that you have cloned and set up the following prerequisite repos:
 
-### webscraper
+## webscraper
 ### webscraperefiner
