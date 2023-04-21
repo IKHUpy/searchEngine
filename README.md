@@ -7,6 +7,6 @@ This search engine is optimized to help users find what they are looking for on 
 # Prerequisites
 Before you start working with this repository, please ensure that you have cloned and set up the following prerequisite repos:
 
-### 1. [WebScrapeRefiner](https://github.com/IKHUpy/WebScrapeRefiner)
+### 1. [WebScrapeRefiner](https://github.com/IKHUpy/WebScrapeRefiner) :dash:
 
-### 2 [dataEntry](https://github.com/IKHUpy/dataEntry)
+### 2 [dataEntry](https://github.com/IKHUpy/dataEntry) :dash:
