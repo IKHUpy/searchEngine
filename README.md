@@ -9,4 +9,4 @@ Before you start working with this repository, please ensure that you have clone
 
 ### 1. [WebScrapeRefiner](https://github.com/IKHUpy/WebScrapeRefiner) :dash:
 
-### 2 [dataEntry](https://github.com/IKHUpy/dataEntry) :dash:
+### 2. [dataEntry](https://github.com/IKHUpy/dataEntry) :dash:
