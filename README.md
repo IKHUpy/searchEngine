@@ -7,5 +7,5 @@ This search engine is optimized to help users find what they are looking for on 
 # Prerequisites
 Before you start working with this repository, please ensure that you have cloned and set up the following prerequisite repos:
 
-### 1. ![](https://github.com/ikhupy/webscraper)
+### 1. ![WebScrapeRefiner](https://github.com/IKHUpy/WebScrapeRefiner)
 ### webscraperefiner
