@@ -2,7 +2,7 @@ import mysql.connector
 
 # Connect to the database
 cnx = mysql.connector.connect(
-    user='root', password='09218692170', host='127.0.0.1', database='t2_drw')
+    user='root', password='passwd', host='127.0.0.1', database='t2_drw')
 cursor = cnx.cursor()
 
 # Define the input words
