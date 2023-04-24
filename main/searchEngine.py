@@ -20,10 +20,6 @@ def per_combination(combinations: list):
     return records
 
 
-def calculate_odd(tokens: list):
-    pairs = [[]]
-
-
 def powerset(tokens: list):
     result = [[]]
 
@@ -41,6 +37,7 @@ def main():
     if choice == '0':
         text = input('text to tokenize: ')
         tokens = tokenization(text, [])
+        print(f'final input conversion: {tokens}')
         combinations = powerset(tokens)
         print(per_combination(combinations))
 
